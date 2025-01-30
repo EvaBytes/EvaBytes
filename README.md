@@ -3,7 +3,7 @@ I’m a Junior Full Stack Developer fueled by coffee and curiosity ☕💡. I’
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,figma,github,vite,aws" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,sass,react,redux,nodejs,figma,github,vite,aws,jest,ts" />
   </a>
 </p>
 

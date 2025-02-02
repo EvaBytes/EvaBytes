@@ -1,5 +1,8 @@
 ## Hi, I'm Eva! 🌱
-I’m a Junior Full Stack Developer fueled by coffee and curiosity ☕💡. I’m passionate about learning new things, building exciting projects, and pushing my limits. Check out my work, and let’s create something amazing together! 🚀
+
+I am a Junior Full Stack Developer. Yes, you got it right—a junior! That means I still have a lot to learn, but I also have a lot to offer, right?😎 I have the knowledge, skills, and determination to keep growing, tackling challenges, and discovering new ways to build innovative solutions.
+
+Even more importantly, I’m passionate about learning, creating exciting projects, and pushing my limits. Let’s build something amazing together! 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
